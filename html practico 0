@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Boca Copa Intercontinental 2000</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <h1 class="titulo">Un equipo plagado de estrellas, llega a la copa del mundo con un objetivo. Ganar el bicampeonato
+    </h1>
+    <p>El Xenieze acudió a la Copa del Mundo 2000 con el objetivo de ganar el título por segunda vez en su historia.
+        Este equipo estaba compuesto por algunos de los mejores jugadores del mundo, incluyendo a Juan Roman Riquelme,
+        Palermo, Ibarra y Oscar Córdoba, entre otros.
+
+        Estas estrellas se unieron para intentar ganar la Copa Intercontinental y convertirse en el segundo equipo de
+        fútbol en ganarle este torneo al real madrid.
+
+        ¿De qué manera los jugadores xeniezes lograron alcanzar el sueño de ganar la Copa 2000?
+        Los lograron alcanzar el sueño de ganar la Copa del Mundo 2000 gracias al trabajo en equipo, una excelente
+        táctica de juego, el liderazgo de los capitanes y la motivación de todos los jugadores.
+
+        El entrenador, Carlos "El Virrey" Bianchi, desarrolló un plan estratégico para el equipo, diferenciándose de
+        otros equipos con una defensa más agresiva y un ataque más agresivo.
+
+        La unión de todos los jugadores fue clave para su éxito, los jugadores se apoyaron entre ellos durante los
+        entrenamientos y partidos, lo que les permitió desarrollar una excelente coordinación entre los jugadores, así
+        como una mejor comprensión de los roles de cada uno.
+
+        Por último, los jugadores de la escuadra boquense tuvieron un gran impulso de motivación para lograr el objetivo
+        de ganar la Copa del Mundo 2000, lo que les permitió salir victoriosos.</p>
+    <div></div>
+    <center><video src="palermo.mp4" class="palermo" controls> </video></center>
+    <br />
+    <center><b>Epicos goles de Martin "El Titan" Palermo para ganar el partido</b></center>
+    <br></br>
+    <center><img id="campeonato" src="boca-campeon-intercontinental-2000_416x234.webp"
+            alt="Boca levantando el trofeo de la copa intercontinental 2000" width="400px"></center>
+    <center><i>El equipo sudamericano consagrado intercontinentalmente </i></center>
+    <br />
+    <button id="demo" onclick="myFunction()" type="button" class="btn btn-outline-primary">Boca Luego de enfrentarse al
+        Real Madrid 2000</button>
+    <script src="funcion.js"></script>
+</body>
+
+</html>
