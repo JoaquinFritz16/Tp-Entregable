@@ -1,0 +1,19 @@
+.titulo {
+    font-size: 40px;
+    font-family: fantasy;
+    text-align: center;
+    text-shadow:
+    -1px -1px 1px #aaa, 
+    0px 4px 1px #1A309E, 
+    4px 4px 5px #eac335be, 
+    0px 0px 7px #1A309E
+
+  }
+body {
+    width: 750px;
+    margin: 0 auto;
+    background-image: linear-gradient(-20deg, #e6ff07d8 0%, #21d4fd 100%);
+  }
+.foot{
+    padding-left: 82%;
+}
