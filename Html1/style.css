@@ -19,3 +19,11 @@ body {
 .foot{
     padding-left: 82%;
 }
+.imagen-clickeable{
+  display: inline-block;
+  cursor: pointer;
+}
+.imagen-clickeable img{
+   height: auto;
+   box-shadow: 0px  0px 10px rgba(0,0,0,.5) ;
+}
